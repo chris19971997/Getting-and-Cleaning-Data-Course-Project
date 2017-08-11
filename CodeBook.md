@@ -1,3 +1,6 @@
+For coding explanations, please look into "run_analysis.R"
+
+
 The data comes from "Human Activity Recognition Using Smartphones Dataset Version 1.0" 
 conducted by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto of Smartlab Non Linear Complex Systems Laboratory.
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
